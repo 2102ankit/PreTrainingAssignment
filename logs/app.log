@@ -1,0 +1,140 @@
+2024-12-22 13:01:50 [main] DEBUG basics.Variables - Program arguments: []
+2024-12-22 14:35:56 [main] DEBUG basics.Variables - Program arguments: []
+2024-12-22 14:41:13 [main] DEBUG basics.Variables - Name: Ankit
+2024-12-22 16:07:22 [main] DEBUG basics.Variables - 7
+2024-12-22 16:07:22 [main] DEBUG basics.Variables - name : Ankit
+2024-12-22 16:07:22 [main] DEBUG basics.Variables - salary : 0.0
+2024-12-22 16:07:37 [main] DEBUG basics.DataTypes - net expenses : -56
+2024-12-22 16:23:39 [main] DEBUG basics.DataTypes - net expenses : 120
+2024-12-22 16:23:39 [main] DEBUG basics.DataTypes - total salary : 30000
+2024-12-22 16:23:39 [main] DEBUG basics.DataTypes - 2.141113122123457E9
+2024-12-22 21:02:42 [main] DEBUG basics.DateTime - Sun Dec 22 21:02:42 IST 20242024-12-22 21:10:01 [main] DEBUG basics.DateTime - Sun Dec 22 21:10:01 IST 2024
+2024-12-22 21:10:01 [main] DEBUG basics.DateTime - SimpleDateFormat [locale: "English (India)", pattern: "E, MM.dd.yyyy 'at' hh:mm:ss a z"]
+2024-12-22 21:12:03 [main] DEBUG basics.DateTime - Sun Dec 22 21:12:03 IST 2024
+2024-12-22 21:12:08 [main] DEBUG basics.DateTime - Sun Dec 22 21:12:08 IST 2024
+2024-12-22 21:12:08 [main] DEBUG basics.DateTime - Sun, 12.22.2024 at 09:12:08 pm IST
+2024-12-22 21:58:16 [main] DEBUG oopswithexceptions.Misc - Misc object created
+2024-12-22 21:58:16 [main] DEBUG oopswithexceptions.Misc - Person{ name= null, userId = 2, salary = 120000 }
+2024-12-22 21:58:16 [main] DEBUG oopswithexceptions.Misc - Person{ name= Ankit, userId = 3, salary = 240000 }
+2024-12-24 12:01:30 [main] DEBUG oopswithexceptions.Misc - Misc object created
+2024-12-24 12:01:30 [main] DEBUG oopswithexceptions.Misc - Person{ name= null, userId = 2, salary = 120000 }
+2024-12-24 12:01:30 [main] DEBUG oopswithexceptions.Misc - Person{ name= Ankit, userId = 3, salary = 240000 }
+2024-12-24 12:01:46 [main] DEBUG oopswithexceptions.inheritance.Main - Addition : 30.0
+2024-12-24 12:01:46 [main] DEBUG oopswithexceptions.inheritance.Main - Subtraction : 15.0
+2024-12-24 12:01:46 [main] DEBUG oopswithexceptions.inheritance.Main - Multiplication : 28.0
+2024-12-24 12:01:46 [main] DEBUG oopswithexceptions.inheritance.Main - Division : 5.0
+2024-12-24 12:01:46 [main] ERROR oopswithexceptions.inheritance.Main - Error in calculation: Can't Divide by zero
+2024-12-24 12:01:46 [main] ERROR oopswithexceptions.inheritance.Main - Invalid operation : Invalid operation: exponentiation
+2024-12-24 12:04:11 [main] DEBUG oopswithexceptions.inheritance.Main - Addition : 30.0
+2024-12-24 12:04:11 [main] DEBUG oopswithexceptions.inheritance.Main - Subtraction : 15.0
+2024-12-24 12:04:11 [main] DEBUG oopswithexceptions.inheritance.Main - Multiplication : 28.0
+2024-12-24 12:04:11 [main] DEBUG oopswithexceptions.inheritance.Main - Division : 5.0
+2024-12-24 12:04:11 [main] ERROR oopswithexceptions.inheritance.Main - Error in calculation: Can't Divide by zero
+2024-12-24 12:04:11 [main] ERROR oopswithexceptions.inheritance.Main - Invalid operation : Invalid operation: exponentiation
+2024-12-24 12:04:11 [main] ERROR oopswithexceptions.inheritance.Main - Invalid operation: Invalid operation: exponentiation
+2024-12-27 12:18:51 [main] DEBUG oopswithexceptions.polymorphism.ChessPiece - Piece moved from e2 to f4
+2024-12-27 12:18:51 [main] DEBUG oopswithexceptions.polymorphism.ChessPiece - Pawn moves from e2 to f4
+2024-12-27 12:18:51 [main] DEBUG oopswithexceptions.polymorphism.ChessPiece - Piece moved from e2 to f4
+2024-12-27 12:18:51 [main] DEBUG oopswithexceptions.polymorphism.ChessPiece - Knight moves from e2 to f4
+2024-12-27 12:18:51 [main] DEBUG oopswithexceptions.polymorphism.ChessPiece - Piece moved from e2 to f4
+2024-12-27 12:18:51 [main] DEBUG oopswithexceptions.polymorphism.ChessPiece - Rook moves from e2 to f4
+2024-12-27 12:18:51 [main] DEBUG oopswithexceptions.polymorphism.ChessPiece - Piece moved from e2 to f4
+2024-12-27 12:18:51 [main] DEBUG oopswithexceptions.polymorphism.ChessPiece - Bishop moves from e2 to f4
+2024-12-27 12:18:51 [main] DEBUG oopswithexceptions.polymorphism.ChessPiece - Piece moved from e2 to f4
+2024-12-27 12:18:51 [main] DEBUG oopswithexceptions.polymorphism.ChessPiece - Queen moves from e2 to f4
+2024-12-27 12:18:51 [main] DEBUG oopswithexceptions.polymorphism.ChessPiece - Piece moved from e2 to f4
+2024-12-27 12:18:51 [main] DEBUG oopswithexceptions.polymorphism.ChessPiece - King moves from e2 to f4
+2024-12-27 12:23:10 [main] ERROR oopswithexceptions.polymorphism.ChessGame - Error while creating position: Invalid rank : 9 , rank must be between 1 & 8
+2024-12-27 19:36:47 [main] DEBUG oopswithexceptions.abstraction.EmployeeManagementSystem - Employee ID : 1, Name : Alice, Base salary : 50000.0 Salary : 55000.0
+2024-12-27 19:36:47 [main] DEBUG oopswithexceptions.abstraction.EmployeeManagementSystem - Performance Rating : 5
+2024-12-27 19:36:47 [main] DEBUG oopswithexceptions.abstraction.EmployeeManagementSystem - 5000.0
+2024-12-27 19:36:47 [main] DEBUG oopswithexceptions.abstraction.EmployeeManagementSystem - Health Insurance
+2024-12-27 19:36:47 [main] DEBUG oopswithexceptions.abstraction.EmployeeManagementSystem - Employee ID : 2, Name : Bob, Base salary : 20000.0 Salary : 1200.0
+2024-12-27 19:36:47 [main] DEBUG oopswithexceptions.abstraction.EmployeeManagementSystem - Performance Rating: 4
+2024-12-27 19:36:47 [main] DEBUG oopswithexceptions.abstraction.EmployeeManagementSystem - Employee ID : 3, Name : Charlie, Base salary : 0.0 Salary : 10000.0
+2024-12-27 19:36:47 [main] DEBUG oopswithexceptions.abstraction.EmployeeManagementSystem - Employee ID : 4, Name : Dave, Base salary : 0.0 Salary : 3000.0
+2024-12-27 19:36:47 [main] DEBUG oopswithexceptions.abstraction.EmployeeManagementSystem - Performance Rating: 4
+2024-12-27 19:36:47 [main] DEBUG oopswithexceptions.abstraction.EmployeeManagementSystem - 10000.0
+2024-12-27 19:36:47 [main] DEBUG oopswithexceptions.abstraction.EmployeeManagementSystem - Minimal freelancer insurance benefits.
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Savings Account Initial Balance: 10000.0
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Savings Account Balance after Deposit: 12000.0
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Savings Account Balance after Withdrawal: 11500.0
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Savings Account Balance after Interest Calculation: 11849.783504505327
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Current Account Initial Balance: 5000.0
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Current Account Balance after Deposit: 6000.0
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Current Account Balance after Withdrawal: 5800.0
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Current Account Balance after Interest Calculation: 5805.8
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Business Account Initial Balance: 150000.0
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Business Account Balance after Deposit: 180000.0
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Business Account Balance after Withdrawal: 170000.0
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Business Account Balance after Interest Calculation: 172050.0
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Salary Account Initial Balance: 20000.0
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Salary Account Balance after Deposit: 25000.0
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Salary Account Balance after Withdrawal: 24000.0
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Salary Account Balance after Interest Calculation: 24120.225187558593
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Trying to create a Savings Account with a negative balance...
+2024-12-27 21:34:09 [main] ERROR oopswithexceptions.encapsulation.Main - Error: Cannot initialize balance to zero
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Trying to withdraw more than the available balance...
+2024-12-27 21:34:09 [main] ERROR oopswithexceptions.encapsulation.Main - Error: Withdrawal Amount cannot be greater than Balance
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Trying to deposit a negative amount...
+2024-12-27 21:34:09 [main] ERROR oopswithexceptions.encapsulation.Main - Error: Deposit Amount cannot be Negative
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Trying to withdraw a negative amount...
+2024-12-27 21:34:09 [main] ERROR oopswithexceptions.encapsulation.Main - Error: Withdrawal Amount cannot be Negative
+2024-12-27 21:34:09 [main] DEBUG oopswithexceptions.encapsulation.Main - Trying to set a negative balance directly...
+2024-12-27 21:34:09 [main] ERROR oopswithexceptions.encapsulation.Main - Error: Balance cannot be negative.
+2024-12-28 00:57:03 [main] INFO  collections.Main - Initial Inventory:
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 1, Name: Laptop, Price: $1500.0, Quantity: 11
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 2, Name: Smartphone, Price: $800.0, Quantity: 20
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 3, Name: Headphones, Price: $200.0, Quantity: 15
+2024-12-28 00:57:03 [main] INFO  collections.Main - Finding product by name 'Smartphone':
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 2, Name: Smartphone, Price: $800.0, Quantity: 20
+2024-12-28 00:57:03 [main] INFO  collections.Main - Inventory sorted by price:
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 3, Name: Headphones, Price: $200.0, Quantity: 15
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 2, Name: Smartphone, Price: $800.0, Quantity: 20
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 1, Name: Laptop, Price: $1500.0, Quantity: 11
+2024-12-28 00:57:03 [main] INFO  collections.Main - Removing one unit of 'Laptop':
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 1, Name: Laptop, Price: $1500.0, Quantity: 10
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 2, Name: Smartphone, Price: $800.0, Quantity: 20
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 3, Name: Headphones, Price: $200.0, Quantity: 15
+2024-12-28 00:57:03 [main] INFO  collections.Main - Deleting 'Headphones' from inventory:
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 1, Name: Laptop, Price: $1500.0, Quantity: 10
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 2, Name: Smartphone, Price: $800.0, Quantity: 20
+2024-12-28 00:57:03 [main] INFO  collections.Main - Updating 'Smartphone' details:
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 1, Name: Laptop, Price: $1500.0, Quantity: 10
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 2, Name: Smartphone Pro, Price: $1000.0, Quantity: 25
+2024-12-28 00:57:03 [main] INFO  collections.Main - Checking if product with ID 3 exists:
+2024-12-28 00:57:03 [main] INFO  collections.Main - Product exists: false
+2024-12-28 00:57:03 [main] INFO  collections.Main - Restocking 'Laptop' with 5 units:
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 1, Name: Laptop, Price: $1500.0, Quantity: 15
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 2, Name: Smartphone Pro, Price: $1000.0, Quantity: 25
+2024-12-28 00:57:03 [main] INFO  collections.Main - Listing all product names:
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Laptop
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Smartphone Pro
+2024-12-28 00:57:03 [main] INFO  collections.Main - Attempting to add a product with negative price:
+2024-12-28 00:57:03 [main] ERROR collections.Main - Error adding product: Price cannot be negative
+java.lang.IllegalArgumentException: Price cannot be negative
+	at collections.Product.<init>(Main.java:20) ~[classes/:?]
+	at collections.Main.main(Main.java:249) [classes/:?]
+2024-12-28 00:57:03 [main] INFO  collections.Main - Attempting to add a product with negative quantity:
+2024-12-28 00:57:03 [main] ERROR collections.Main - Error adding product: Quantity cannot be negative
+java.lang.IllegalArgumentException: Quantity cannot be negative
+	at collections.Product.<init>(Main.java:21) ~[classes/:?]
+	at collections.Main.main(Main.java:257) [classes/:?]
+2024-12-28 00:57:03 [main] INFO  collections.Main - Attempting to update product with negative price:
+2024-12-28 00:57:03 [main] ERROR collections.Main - Error updating product: Price cannot be negative
+java.lang.IllegalArgumentException: Price cannot be negative
+	at collections.Product.setPrice(Main.java:50) ~[classes/:?]
+	at collections.Inventory.updateProduct(Main.java:109) ~[classes/:?]
+	at collections.Main.main(Main.java:265) [classes/:?]
+2024-12-28 00:57:03 [main] INFO  collections.Main - Attempting to restock with negative quantity:
+2024-12-28 00:57:03 [main] INFO  collections.Main - Final Inventory State:
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 1, Name: Laptop Pro, Price: $1500.0, Quantity: 15
+2024-12-28 00:57:03 [main] DEBUG collections.Inventory - Product ID: 2, Name: Smartphone Pro, Price: $1000.0, Quantity: 15
+2024-12-28 14:11:36 [pool-2-thread-5] DEBUG multithreading.Scraper - Attempting to scrape URL: https://en.wikipedia.org/wiki/Ancient_Egypt
+2024-12-28 14:11:36 [pool-2-thread-4] DEBUG multithreading.Scraper - Attempting to scrape URL: https://en.wikipedia.org/wiki/Mughal_Empire
+2024-12-28 14:11:36 [pool-2-thread-3] DEBUG multithreading.Scraper - Attempting to scrape URL: https://en.wikipedia.org/wiki/French_Revolution
+2024-12-28 14:11:36 [pool-2-thread-7] DEBUG multithreading.Scraper - Attempting to scrape URL: https://en.wikipedia.org/wiki/American_Civil_War
+2024-12-28 14:11:36 [pool-2-thread-6] DEBUG multithreading.Scraper - Attempting to scrape URL: https://en.wikipedia.org/wiki/Renaissance
+2024-12-28 14:11:36 [pool-2-thread-1] DEBUG multithreading.Scraper - Attempting to scrape URL: https://en.wikipedia.org/wiki/World_War_II
+2024-12-28 14:11:36 [pool-2-thread-8] DEBUG multithreading.Scraper - Attempting to scrape URL: https://en.wikipedia.org/wiki/Partition_of_India
+2024-12-28 14:11:36 [pool-2-thread-2] DEBUG multithreading.Scraper - Attempting to scrape URL: https://en.wikipedia.org/wiki/Industrial_Revolution
